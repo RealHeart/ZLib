@@ -1,0 +1,5 @@
+name: ZLib
+main: ZLibBC
+version: ${version}
+author: 真心
+description: ZLib

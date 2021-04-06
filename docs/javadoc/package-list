@@ -1,0 +1,5 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType///PointingToDeclaration/me/zhenxin/zlib/util/HttpUtil.PostType.html
+me.zhenxin.zlib.util
+

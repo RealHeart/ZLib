@@ -1,0 +1,23 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:me.zhenxin.zlib.util////PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/index.html
+$dokka.location:me.zhenxin.zlib.util//md5/kotlin.String#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/md5.html
+$dokka.location:me.zhenxin.zlib.util//saveData/java.io.InputStream#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/save-data.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.FORM///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-f-o-r-m/index.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.FORM/name/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-f-o-r-m/name.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.FORM/ordinal/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-f-o-r-m/ordinal.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.JSON///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-j-s-o-n/index.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.JSON/name/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-j-s-o-n/name.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.JSON/ordinal/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-j-s-o-n/ordinal.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/index.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/index.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil/download/#kotlin.String#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/download.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil/get/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/get.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil/post/#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.Any]#me.zhenxin.zlib.util.HttpUtil.PostType/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/post.html
+$dokka.location:me.zhenxin.zlib.util/VersionCheck///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/index.html
+$dokka.location:me.zhenxin.zlib.util/VersionCheck/VersionCheck/#kotlin.String#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/-version-check.html
+$dokka.location:me.zhenxin.zlib.util/VersionCheck/equals/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/equals.html
+$dokka.location:me.zhenxin.zlib.util/VersionCheck/isHigherThan/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/is-higher-than.html
+$dokka.location:me.zhenxin.zlib.util/VersionCheck/isLowerThan/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/is-lower-than.html
+me.zhenxin.zlib.util
+

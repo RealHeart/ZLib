@@ -1,0 +1,6 @@
+name: ZLib
+main: ZLibBukkit
+version: ${version}
+api-version: 1.13
+author: 真心
+description: ZLib
