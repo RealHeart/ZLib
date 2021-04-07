@@ -41,6 +41,11 @@ artifacts {
     archives(tasks["javadocJar"])
 }
 
+tasks.build {
+    dependsOn(tasks.dokkaHtml)
+    dependsOn(tasks.dokkaJavadoc)
+}
+
 publishing {
     publications {
         create<MavenPublication>("maven") {
@@ -85,10 +90,12 @@ publishing {
         }
         maven {
             name = "sonatype"
-            setUrl("https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/")
+            val releasesRepoUrl = "https://s01.oss.sonatype.org/service/local/staging/deploy/maven2"
+            val snapshotsRepoUrl = "https://s01.oss.sonatype.org/content/repositories/snapshots"
+            url = uri(if (version.toString().endsWith("SNAPSHOT")) snapshotsRepoUrl else releasesRepoUrl)
             credentials {
-                username = properties["NEXUS_USERNAME"].toString()
-                password = properties["NEXUS_PASSWORD"].toString()
+                username = System.getenv("NEXUS_USERNAME") ?: properties["NEXUS_USERNAME"].toString()
+                password = System.getenv("NEXUS_PASSWORD") ?: properties["NEXUS_PASSWORD"].toString()
             }
         }
     }
