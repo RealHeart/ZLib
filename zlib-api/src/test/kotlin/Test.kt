@@ -1,4 +1,5 @@
 import me.zhenxin.zlib.util.HttpUtil
+import me.zhenxin.zlib.util.PostType
 
 /**
  * 测试
@@ -11,11 +12,11 @@ import me.zhenxin.zlib.util.HttpUtil
 fun main() {
     val result = HttpUtil.post(
         "https://mhy.zhenxin.xyz/auth/login/qrcode/query",
-        mapOf(
+        mutableMapOf(
             "device" to "0af9ad5b3f004e2ab582262438b5d9a4",
             "ticket" to "606585dde6af64230962e105"
         ),
-        HttpUtil.PostType.JSON
+        PostType.JSON
     )
     println(result)
 }

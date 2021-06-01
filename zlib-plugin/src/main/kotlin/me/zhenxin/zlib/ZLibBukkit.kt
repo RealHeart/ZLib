@@ -1,15 +1,17 @@
 package me.zhenxin.zlib
 
+import me.zhenxin.zlib.mc.module.logger.impl.ZLoggerBukkit
 import org.bukkit.plugin.java.JavaPlugin
+import me.zhenxin.zlib.ext.logger
 
 class ZLibBukkit : JavaPlugin() {
 
     override fun onEnable() {
-        ZLib.version = description.version
+        me.zhenxin.zlib.ext.logger = ZLoggerBukkit("§bZLib §e>>> ", server.consoleSender)
         ZLib.logo.forEach {
-            server.logger.info("§bZLib §e>>> §b$it")
+            me.zhenxin.zlib.ext.logger.info("§b$it")
         }
-        server.logger.info("§bZLib §e>>> \n")
-        server.logger.info("§bZLib §e>>>     §6v${ZLib.version}  by ZhenXin\n")
+        me.zhenxin.zlib.ext.logger.info("\n")
+        me.zhenxin.zlib.ext.logger.info("    §6v${description.version}  by ZhenXin\n")
     }
 }

@@ -1,5 +1,5 @@
 name: ZLib
-main: ZLibBukkit
+main: me.zhenxin.zlib.ZLibBukkit
 version: ${version}
 api-version: 1.13
 author: 真心

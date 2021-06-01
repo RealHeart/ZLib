@@ -1,23 +1,59 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
+$dokka.location:me.zhenxin.zlib.exception////PointingToDeclaration/zlib-api/me.zhenxin.zlib.exception/index.html
+$dokka.location:me.zhenxin.zlib.exception/ZLibException///PointingToDeclaration/zlib-api/me.zhenxin.zlib.exception/-z-lib-exception/index.html
+$dokka.location:me.zhenxin.zlib.exception/ZLibException/ZLibException/#kotlin.String?/PointingToDeclaration/zlib-api/me.zhenxin.zlib.exception/-z-lib-exception/-z-lib-exception.html
+$dokka.location:me.zhenxin.zlib.exception/ZLibException/message/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.exception/-z-lib-exception/message.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl////PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/index.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBC///PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-b-c/index.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBC/ZLoggerBC/#kotlin.String#net.md_5.bungee.api.CommandSender/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-b-c/-z-logger-b-c.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBC/debug/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-b-c/debug.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBC/error/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-b-c/error.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBC/info/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-b-c/info.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBukkit///PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-bukkit/index.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBukkit/ZLoggerBukkit/#kotlin.String#org.bukkit.command.CommandSender/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-bukkit/-z-logger-bukkit.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBukkit/debug/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-bukkit/debug.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBukkit/error/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-bukkit/error.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger.impl/ZLoggerBukkit/info/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger.impl/-z-logger-bukkit/info.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger////PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger/index.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger/ZLogger///PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger/-z-logger/index.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger/ZLogger/debug/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger/-z-logger/debug.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger/ZLogger/error/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger/-z-logger/error.html
+$dokka.location:me.zhenxin.zlib.mc.module.logger/ZLogger/info/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.mc.module.logger/-z-logger/info.html
+$dokka.location:me.zhenxin.zlib.util.ext////PointingToDeclaration/zlib-api/me.zhenxin.zlib.util.ext/index.html
+$dokka.location:me.zhenxin.zlib.util.ext//md5/kotlin.String#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util.ext/md5.html
+$dokka.location:me.zhenxin.zlib.util.ext//saveData/java.io.InputStream#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util.ext/save-data.html
 $dokka.location:me.zhenxin.zlib.util////PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/index.html
-$dokka.location:me.zhenxin.zlib.util//md5/kotlin.String#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/md5.html
-$dokka.location:me.zhenxin.zlib.util//saveData/java.io.InputStream#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/save-data.html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.FORM///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-f-o-r-m/index.html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.FORM/name/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-f-o-r-m/name.html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.FORM/ordinal/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-f-o-r-m/ordinal.html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.JSON///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-j-s-o-n/index.html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.JSON/name/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-j-s-o-n/name.html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType.JSON/ordinal/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/-j-s-o-n/ordinal.html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-post-type/index.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.HttpResult///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-http-result/index.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.HttpResult/HttpResult/#kotlin.Int#kotlin.Any?/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-http-result/-http-result.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.HttpResult/code/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-http-result/code.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.HttpResult/data/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/-http-result/data.html
 $dokka.location:me.zhenxin.zlib.util/HttpUtil///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/index.html
 $dokka.location:me.zhenxin.zlib.util/HttpUtil/download/#kotlin.String#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/download.html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil/get/#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/get.html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil/post/#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.Any]#me.zhenxin.zlib.util.HttpUtil.PostType/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/post.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil/get/#kotlin.String#kotlin.collections.MutableMap[kotlin.String,kotlin.Any?]/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/get.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil/post/#kotlin.String#kotlin.collections.MutableMap[kotlin.String,kotlin.Any?]#me.zhenxin.zlib.util.PostType/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-http-util/post.html
+$dokka.location:me.zhenxin.zlib.util/PostType.FORM///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-post-type/-f-o-r-m/index.html
+$dokka.location:me.zhenxin.zlib.util/PostType.FORM/name/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-post-type/-f-o-r-m/name.html
+$dokka.location:me.zhenxin.zlib.util/PostType.FORM/ordinal/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-post-type/-f-o-r-m/ordinal.html
+$dokka.location:me.zhenxin.zlib.util/PostType.JSON///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-post-type/-j-s-o-n/index.html
+$dokka.location:me.zhenxin.zlib.util/PostType.JSON/name/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-post-type/-j-s-o-n/name.html
+$dokka.location:me.zhenxin.zlib.util/PostType.JSON/ordinal/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-post-type/-j-s-o-n/ordinal.html
+$dokka.location:me.zhenxin.zlib.util/PostType///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-post-type/index.html
 $dokka.location:me.zhenxin.zlib.util/VersionCheck///PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/index.html
 $dokka.location:me.zhenxin.zlib.util/VersionCheck/VersionCheck/#kotlin.String#kotlin.String/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/-version-check.html
 $dokka.location:me.zhenxin.zlib.util/VersionCheck/equals/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/equals.html
 $dokka.location:me.zhenxin.zlib.util/VersionCheck/isHigherThan/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/is-higher-than.html
 $dokka.location:me.zhenxin.zlib.util/VersionCheck/isLowerThan/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib.util/-version-check/is-lower-than.html
+$dokka.location:me.zhenxin.zlib////PointingToDeclaration/zlib-api/me.zhenxin.zlib/index.html
+$dokka.location:me.zhenxin.zlib/ZLib.Logger///PointingToDeclaration/zlib-api/me.zhenxin.zlib/-z-lib/-logger/index.html
+$dokka.location:me.zhenxin.zlib/ZLib.Logger/debug/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib/-z-lib/-logger/debug.html
+$dokka.location:me.zhenxin.zlib/ZLib.Logger/prefix/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib/-z-lib/-logger/prefix.html
+$dokka.location:me.zhenxin.zlib/ZLib///PointingToDeclaration/zlib-api/me.zhenxin.zlib/-z-lib/index.html
+$dokka.location:me.zhenxin.zlib/ZLib/debug/#/PointingToDeclaration/zlib-api/me.zhenxin.zlib/-z-lib/debug.html
+me.zhenxin.zlib
+me.zhenxin.zlib.exception
+me.zhenxin.zlib.mc.module.logger
+me.zhenxin.zlib.mc.module.logger.impl
 me.zhenxin.zlib.util
+me.zhenxin.zlib.util.ext
 

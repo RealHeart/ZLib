@@ -1,4 +1,4 @@
-package me.zhenxin.zlib.util
+package me.zhenxin.zlib.util.ext
 
 import java.io.FileOutputStream
 import java.io.InputStream

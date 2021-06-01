@@ -7,7 +7,6 @@ package me.zhenxin.zlib
  * @description:
  */
 object ZLib {
-    lateinit var version: String
     val logo = ("  ______    _        _   _     \n" +
             " |___  /   | |      (_) | |    \n" +
             "    / /    | |       _  | |__  \n" +

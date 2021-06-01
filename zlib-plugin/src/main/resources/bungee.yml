@@ -1,5 +1,5 @@
 name: ZLib
-main: ZLibBC
+main: me.zhenxin.zlib.ZLibBC
 version: ${version}
 author: 真心
 description: ZLib

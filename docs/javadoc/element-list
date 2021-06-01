@@ -1,5 +1,11 @@
 $dokka.format:javadoc-v1
 $dokka.linkExtension:html
-$dokka.location:me.zhenxin.zlib.util/HttpUtil.PostType///PointingToDeclaration/me/zhenxin/zlib/util/HttpUtil.PostType.html
+$dokka.location:me.zhenxin.zlib.util/HttpUtil.HttpResult///PointingToDeclaration/me/zhenxin/zlib/util/HttpUtil.HttpResult.html
+$dokka.location:me.zhenxin.zlib/ZLib.Logger///PointingToDeclaration/me/zhenxin/zlib/ZLib.Logger.html
+me.zhenxin.zlib
+me.zhenxin.zlib.exception
+me.zhenxin.zlib.mc.module.logger
+me.zhenxin.zlib.mc.module.logger.impl
 me.zhenxin.zlib.util
+me.zhenxin.zlib.util.ext
 

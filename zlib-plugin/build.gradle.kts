@@ -7,21 +7,10 @@ dependencies {
 
     compileOnly(Libs.spigot) // Spigot API
     compileOnly(Libs.bungeecord) // BC API
-
-    // NMS
-    compileOnly(Libs.nms_1_8_R3)
-    compileOnly(Libs.nms_1_12_R1)
-    compileOnly(Libs.nms_1_13_R2)
-    compileOnly(Libs.nms_1_14_R1)
-    compileOnly(Libs.nms_1_15_R1)
-    compileOnly(Libs.nms_1_16_R1)
-    compileOnly(Libs.nms_1_16_R2)
-    compileOnly(Libs.nms_1_16_R3)
 }
 
 repositories {
     maven("https://hub.spigotmc.org/nexus/content/groups/public/")
-    maven("https://realheart.gitee.io/maven")
 }
 
 
@@ -45,4 +34,4 @@ tasks.build {
 
 
 group = "me.zhenxin"
-version = "1.0"
+version = Version.zlib
